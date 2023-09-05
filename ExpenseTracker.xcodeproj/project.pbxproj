@@ -17,6 +17,7 @@
 		77E7B68A2AA770A6001BEFB0 /* CGFloat+Extension.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77E7B6892AA770A6001BEFB0 /* CGFloat+Extension.swift */; };
 		77E7B68C2AA7726A001BEFB0 /* AddExpenseView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77E7B68B2AA7726A001BEFB0 /* AddExpenseView.swift */; };
 		77E7B68E2AA77A5A001BEFB0 /* Expenses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77E7B68D2AA77A5A001BEFB0 /* Expenses.swift */; };
+		77E7B6902AA7917D001BEFB0 /* ExpenseCardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 77E7B68F2AA7917D001BEFB0 /* ExpenseCardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,6 +32,7 @@
 		77E7B6892AA770A6001BEFB0 /* CGFloat+Extension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = "CGFloat+Extension.swift"; sourceTree = "<group>"; };
 		77E7B68B2AA7726A001BEFB0 /* AddExpenseView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddExpenseView.swift; sourceTree = "<group>"; };
 		77E7B68D2AA77A5A001BEFB0 /* Expenses.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Expenses.swift; sourceTree = "<group>"; };
+		77E7B68F2AA7917D001BEFB0 /* ExpenseCardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ExpenseCardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -121,6 +123,7 @@
 			isa = PBXGroup;
 			children = (
 				77E7B6862AA76F9B001BEFB0 /* ContentUnavailableView.swift */,
+				77E7B68F2AA7917D001BEFB0 /* ExpenseCardView.swift */,
 			);
 			path = CustomViews;
 			sourceTree = "<group>";
@@ -207,6 +210,7 @@
 				77E7B6832AA766FD001BEFB0 /* ExpenseItem.swift in Sources */,
 				77E7B68A2AA770A6001BEFB0 /* CGFloat+Extension.swift in Sources */,
 				77E7B6662AA7637B001BEFB0 /* ExpenseTrackerApp.swift in Sources */,
+				77E7B6902AA7917D001BEFB0 /* ExpenseCardView.swift in Sources */,
 				77E7B68E2AA77A5A001BEFB0 /* Expenses.swift in Sources */,
 				77E7B67F2AA7666D001BEFB0 /* ExpensesViewModel.swift in Sources */,
 				77E7B67D2AA7641C001BEFB0 /* ExpensesView.swift in Sources */,

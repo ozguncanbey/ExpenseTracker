@@ -23,4 +23,10 @@ struct ExpenseItem: Identifiable, Codable {
         self.amount = amount
         self.date = date
     }
+    
+    var currencyString: String {
+        let formatter = NumberFormatter()
+        formatter.numberStyle = .currency
+        return formatter.string(for: amount) ?? ""
+    }
 }
