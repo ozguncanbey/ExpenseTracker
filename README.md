@@ -33,7 +33,7 @@ To download and run the project on your local development environment, follow th
 1. Clone or download this project as a ZIP file.
 
 ```bash
-git clone https://github.com/YourUsername/ExpenseTracker.git
+git clone https://github.com/ozguncanbey/ExpenseTracker.git
 ```
 
 2. Navigate to the project folder.
