@@ -20,11 +20,11 @@ After adding a new expense, it will automatically appear on the main screen.
 
 ## Screenshots
 
-* (https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/afc8a7e9-1c2e-4fdc-b400-cb431fb773e6)
-* (https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/48fe3345-f21a-48ef-9725-b8e166013865)
-* (https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/758cc01b-7248-41bd-b581-fee4268dc971)
-* (https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/ea2b7715-99aa-4266-b060-eb8d861873b0)
-* (https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/a7d42222-5908-412f-ba80-986dbd9b5859)
+<img src="https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/afc8a7e9-1c2e-4fdc-b400-cb431fb773e6" width="300"/>
+<img src="https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/48fe3345-f21a-48ef-9725-b8e166013865" width="300"/>
+<img src="https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/758cc01b-7248-41bd-b581-fee4268dc971" width="300"/>
+<img src="https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/ea2b7715-99aa-4266-b060-eb8d861873b0" width="300"/>
+<img src="https://github.com/ozguncanbey/ExpenseTracker/assets/138692325/a7d42222-5908-412f-ba80-986dbd9b5859" width="300"/>
 
 ## Installation
 
